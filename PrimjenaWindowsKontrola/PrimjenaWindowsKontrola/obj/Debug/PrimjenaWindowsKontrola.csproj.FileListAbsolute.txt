@@ -1,0 +1,5 @@
+C:\Users\Gordana\source\repos\PrimjenaWindowsKontrola\PrimjenaWindowsKontrola\obj\Debug\PrimjenaWindowsKontrola.csprojAssemblyReference.cache
+C:\Users\Gordana\source\repos\PrimjenaWindowsKontrola\PrimjenaWindowsKontrola\obj\Debug\PrimjenaWindowsKontrola.Form1.resources
+C:\Users\Gordana\source\repos\PrimjenaWindowsKontrola\PrimjenaWindowsKontrola\obj\Debug\PrimjenaWindowsKontrola.Properties.Resources.resources
+C:\Users\Gordana\source\repos\PrimjenaWindowsKontrola\PrimjenaWindowsKontrola\obj\Debug\PrimjenaWindowsKontrola.csproj.GenerateResource.cache
+C:\Users\Gordana\source\repos\PrimjenaWindowsKontrola\PrimjenaWindowsKontrola\obj\Debug\PrimjenaWindowsKontrola.csproj.CoreCompileInputs.cache
